@@ -1,4 +1,4 @@
-# WOW! Intelligent Assistant for WhatsApp
+WOW! AI-Powered Restaurant Assistant for WhatsApp
 
 ## Overview
 
