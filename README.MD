@@ -26,19 +26,11 @@ The project integrates Dialogflow, Firebase Functions, and JavaScript to create 
 
 ## Architecture
 
-WhatsApp User
-      |
- Dialogflow
-      |
-Firebase Functions
-      |
- Business Logic
-      |
- Order Processing
+WhatsApp User → Dialogflow → Firebase Functions → Business Logic → Order Processing
 
 ## Project Status
 
-⚠️ Proof of Concept (PoC)
+🚀 Prototype / Proof of Concept
 
 This project was developed as a proof of concept and learning experience.
 
@@ -81,4 +73,4 @@ Through this project I learned:
 
 Jorge Eduardo Rodrigues
 
-Mechanical Designer transitioning into Software Quality Assurance and Technology.
+Mechanical Designer transitioning into Software Quality Assurance and Software Development.
