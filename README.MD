@@ -24,9 +24,21 @@ The project integrates Dialogflow, Firebase Functions, and JavaScript to create 
 * Firebase Admin SDK
 * Firestore
 
+## Architecture
+
+WhatsApp User
+      ↓
+ Dialogflow
+      ↓
+Firebase Functions
+      ↓
+ Business Logic
+      ↓
+ Order Processing
+
 ## Project Status
 
-⚠️ Prototype / Learning Project
+⚠️ Proof of Concept (PoC)
 
 This project was developed as a proof of concept and learning experience.
 
