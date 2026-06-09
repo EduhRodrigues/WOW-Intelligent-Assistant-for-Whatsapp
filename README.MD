@@ -28,16 +28,12 @@ The project integrates Dialogflow, Firebase Functions, and JavaScript to create 
 
 WhatsApp User
       |
-      v
  Dialogflow
       |
-      v
 Firebase Functions
       |
-      v
  Business Logic
       |
-      v
  Order Processing
 
 ## Project Status
